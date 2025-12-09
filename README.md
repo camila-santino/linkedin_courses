@@ -14,14 +14,7 @@ Oi! Sou Camila — desenvolvedora por curiosidade e artista por natureza, direto
 - Autodidatismo · pensamento crítico · comunicação visual · empatia · organização e planejamento
 
 ---
-
-### 🌐 Links rápidos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila%20Santino-blue?logo=linkedin)](https://www.linkedin.com/in/camilasantino)  
-[![Linklist](https://img.shields.io/badge/Linklist.bio-camila__santino-9cf?logo=linktree)](https://linklist.bio/camila_santino)
-
----
-# linkedin_courses
+# cursos do LinkedIn
 Repository for all exercises from  Linkedin learning
 
 # Programming Foundations: Fundamentals
@@ -52,6 +45,11 @@ completo em 09/12/25.
 
 Se você gosta de projetos com alma, ideias fora da curva ou quer trocar experiências, fique à vontade para me chamar.  
 Aqui, cada repositório é uma tentativa de transformar curiosidade em criação.
+
+### 🌐 Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila%20Santino-blue?logo=linkedin)](https://www.linkedin.com/in/camilasantino)  
+[![Linklist](https://img.shields.io/badge/Linklist.bio-camila__santino-9cf?logo=linktree)](https://linklist.bio/camila_santino)
 
 ---
 
