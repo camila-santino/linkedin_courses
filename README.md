@@ -10,7 +10,15 @@ completo em 09/12/25.
 
 ## Linguagens, Ferramentas e Inteligência Artificial
 - Linguagens "Script"
+- VsCode e Extensões
+- Snippets
+- Grok - IA para programadores
+
 ## Variáveis e Tipos de Dados
+- Nomenclatura de Variáveis
+- Tipos comuns: string, boolean, números,
+
+
 ## Código Condicional
 ## Código Modular
 ## Iterações e Vetores
