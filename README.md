@@ -1,3 +1,26 @@
+# [👩🏾‍💻 Sobre mim](https://github.com/camila-santino/camila_santino/blob/main/README.md)
+
+Oi! Sou Camila — desenvolvedora por curiosidade e artista por natureza, direto de Fortaleza, Brasil 🇧🇷. Eu sou uma pessoa que gosta de praticar códigos e inventar meus próprios apps e automações. Finalmente, resolvi praticar por aqui e não só ficar observando. Vejo a tecnologia como ferramenta cultural, e quero trabalhar em projetos que unam essas dimensões, criando experiências que conectem pessoas, ideias e mundos.
+
+> “We’re made of star stuff.” — Carl Sagan
+
+---
+
+### 🛠️ Habilidades e Competências
+
+- UX/UI · prototipagem · apps experimentais · no-code · Git · Figma · APIs · web scraping  
+- Inteligência Artificial · machine learning · processamento de linguagem natural  
+- Escrita criativa · design narrativo · curadoria digital · multilinguismo · pesquisa cultural  
+- Autodidatismo · pensamento crítico · comunicação visual · empatia · organização e planejamento
+
+---
+
+### 🌐 Links rápidos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila%20Santino-blue?logo=linkedin)](https://www.linkedin.com/in/camilasantino)  
+[![Linklist](https://img.shields.io/badge/Linklist.bio-camila__santino-9cf?logo=linktree)](https://linklist.bio/camila_santino)
+
+---
 # linkedin_courses
 Repository for all exercises from  Linkedin learning
 
@@ -23,3 +46,14 @@ completo em 09/12/25.
 ## Código Modular
 ## Iterações e Vetores
 ## Desafios e Conclusão
+---
+
+### 📫 Conecte-se comigo
+
+Se você gosta de projetos com alma, ideias fora da curva ou quer trocar experiências, fique à vontade para me chamar.  
+Aqui, cada repositório é uma tentativa de transformar curiosidade em criação.
+
+---
+
+Feito com curiosidade, café e poesia.  
+Obrigada por visitar meu espaço ✨
